@@ -1,0 +1,25 @@
+pwd - disp current loc
+
+cd- alows you to move troughout your pc
+
+mkdir- creates a new folder in the current directory
+
+ls- disp the contents of the current directory
+
+rm- [filename] -  delete file
+
+touch - creates a newfile in the curret directory
+
+repository -  like a folder or container that restores file related to a project. It keeps of changes made over time
+> local - version stored on your computer
+>remote - stored on a server or cloud base platform.[github]
+
+gir init - initialize a folder
+
+git config user.name "<username">
+git config user.email "<email address">
+	> sets the username and email address of the user
+
+git config user.name
+git config user.email
+  - to check if username and user email is connected	
